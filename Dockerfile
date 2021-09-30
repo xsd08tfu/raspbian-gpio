@@ -1,4 +1,4 @@
-FROM raspbian/buster
+FROM balenalib/raspberry-pi-debian:buster
 
 COPY code code
 
